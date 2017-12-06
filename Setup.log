@@ -1,0 +1,10 @@
+[InstallShield Silent]
+Version=v7.00
+File=Log File
+[ResponseResult]
+ResultCode=0
+[Application]
+Name=SISShortcut
+Version=1.0.0.3
+Company=Samsung
+Lang=0409
